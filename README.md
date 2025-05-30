@@ -1,2 +1,2 @@
 # underwaygostyn
-a website made for my and my friends project
+a website made for me and my friends project
